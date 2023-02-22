@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "tailwind": "yarn tailwindcss -i ./src/index.css -o ./dist/index.css --watch"
+    "tailwind": "yarn tailwindcss -i ./src/index.css -o ./dist/index.css",
+    "start":"yarn tailwind && yarn dev"
   },
   "dependencies": {
     "dotenv": "^16.0.3",

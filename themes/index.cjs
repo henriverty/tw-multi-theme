@@ -1,5 +1,5 @@
-const defaultTheme =  require("./default.cjs");
-const energeticTheme = require("./energetic.cjs");
+const defaultTheme =  require("./defaultTheme.cjs");
+const energeticTheme = require("./energeticTheme.cjs");
 
 module.exports = {
   defaultTheme,

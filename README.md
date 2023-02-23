@@ -15,5 +15,7 @@ Open the terminal and navigate to your projects folder
 
 ## Usage
 1. open `.env` file
-2. change your env variable `VITE_APP_THEME` into `defaultTheme` | `energeticTHeme`
+2. change your env variable `VITE_APP_THEME` into `defaultTheme` | `energeticTheme`
 3. run `yarn start`
+
+P.S. if you want to swap theme you need to repeat Usage operations
